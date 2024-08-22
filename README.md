@@ -26,11 +26,11 @@ npm install
 ### Run
 
 ```
-- Run frontend 
+### Run frontend 
 cd frontend
 npm run start
 
-- Run backend
+### Run backend
 cd frontend
 npm run server
 ```
