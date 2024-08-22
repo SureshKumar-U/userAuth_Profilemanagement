@@ -23,6 +23,17 @@ npm install
 cd backend
 npm install
 ```
+
+
+### `.env` File
+
+- DB_USERNAME=your_mysql_username
+- DB_PASSWORD=your_mysql_password
+- DB_NAME=your_dbname
+- DB_HOST=127.0.0.1
+
+
+
 ### Run
 
 ```
