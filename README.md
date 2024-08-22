@@ -19,8 +19,8 @@ This project is a complete user authentication and profile management system bui
 1. **Clone the repository**:
 
     ```bash
-    git clone [https://github.com/SureshKumar-U/ecommerce.git](https://github.com/SureshKumar-U/userAuth_Profilemanagement.git)
-    cd ecommerce
+    git clone https://github.com/SureshKumar-U/userAuth_Profilemanagement.git
+    cd userAuth_Profilemanagement
     ```
 
 2. **Install dependencies**:
