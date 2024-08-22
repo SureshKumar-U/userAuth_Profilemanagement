@@ -18,7 +18,6 @@ This project is a complete user authentication and profile management system bui
 ### Install Dependencies (frontend & backend)
 
 ```
-
 cd frontend
 npm install
 cd backend
