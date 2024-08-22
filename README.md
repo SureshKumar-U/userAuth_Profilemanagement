@@ -26,7 +26,7 @@ npm install
 
 
 ### `.env` File
-Replace following environment variables
+Replace following environment variables in .env file
 
 - DB_USERNAME=your_mysql_username
 - DB_PASSWORD=your_mysql_password
