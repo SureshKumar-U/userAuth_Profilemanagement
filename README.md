@@ -20,6 +20,7 @@ This project is a complete user authentication and profile management system bui
 
     ```bash
     git clone https://github.com/SureshKumar-U/userAuth_Profilemanagement.git
+    
     cd userAuth_Profilemanagement
     ```
 
