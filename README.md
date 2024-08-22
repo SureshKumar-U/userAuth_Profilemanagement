@@ -8,11 +8,12 @@ This project is a complete user authentication and profile management system bui
 ## Features
 - **User Authentication**: Secure registration and login with password hashing by using JWT library.
 - **Profile Management**: View and update user profile information.Securely handle profile updates with authenticated access.
-- **Shopping Cart**: Add and remove products from the cart, with real-time updates.
-
+- 
 ## Technologies Used
-- ggee
--      _deree
+-  **Front end**: Reactjs
+-  **Back end**: Nodejs.Express
+-  **Database**: Mysql
+       
 
 
 
