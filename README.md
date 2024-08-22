@@ -32,5 +32,5 @@ npm run start
 
 
 cd backend
-npm run server
+npm run dev
 ```
