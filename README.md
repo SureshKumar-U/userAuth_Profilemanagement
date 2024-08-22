@@ -14,30 +14,24 @@ This project is a complete user authentication and profile management system bui
 -  **Back end**: Nodejs.Express
 -  **Database**: Mysql
 
-### Installation
 
-1. **Clone the repository**:
+### Install Dependencies (frontend & backend)
 
-    ```bash
-    git clone https://github.com/SureshKumar-U/userAuth_Profilemanagement.git
-    
-    cd userAuth_Profilemanagement
-    ```
+```
 
-2. **Install dependencies**:
+cd frontend
+npm install
+cd backend
+npm install
+```
+### Run
 
-    ```bash
-    npm install
-    ```
+```
+# Run frontend 
+cd frontend
+npm run start
 
-
-3. **Run the development server**:
-
-    ```bash
-    npm run dev
-    ```
-
-    Open [http://localhost:3000](http://localhost:3000) in your browser to see the application in action.
-
-
-
+# Run backend
+cd frontend
+npm run server
+```
