@@ -1,0 +1,46 @@
+/* src/components/Alert.module.css */
+.alert {
+    padding: 10px;
+    border-radius: 4px;
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    top: 20px;
+    right:0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    max-height: 20px;
+}
+  p{
+    margin: 0px;
+    flex: 1;
+  }
+  
+  .success {
+    background-color: #28a745;
+  }
+  
+  .error {
+    background-color: #da0016;
+  }
+  
+  .info {
+    background-color: #17a2b8;
+  }
+  
+  .closeButton {
+    background: transparent;
+    border: none;
+    color: white;
+    margin: 0px;
+    font-size: 12px;
+    cursor: pointer;
+    padding: 0;
+    width: 10px;
+    
+  }
+  
+
+  
